@@ -5,5 +5,5 @@ function purchase() {
 function order() {
 	city = document.getElementById("city").value;
 
-	alert("We will ship to " + city + "!");
+	alert("We will ship ti " + city + "!");
 }
